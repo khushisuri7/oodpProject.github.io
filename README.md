@@ -1,1 +1,3 @@
-# oodpProject.github.io
+# COLLEGE-MANAGEMENT
+
+This is a C++ Project
